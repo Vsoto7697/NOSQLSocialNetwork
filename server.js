@@ -1,4 +1,5 @@
 const express = require('express');
+// set up mongoose to connect when we start the app
 const mongoose = require('mongoose');
 
 const app = express();
